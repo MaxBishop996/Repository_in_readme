@@ -1,6 +1,6 @@
 def strupper(string: str):
     """
-    функция делает буквы заглавными
+    Функция делает буквы заглавными
     :param string: входная строка
     :return:
     """
@@ -9,7 +9,7 @@ def strupper(string: str):
 
 def strcap(string: str):
     """
-    функция делает первую букву заглавной
+    Функция делает первую букву заглавной
     :param string: входная строка
     :return:
     """
